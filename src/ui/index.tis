@@ -616,7 +616,7 @@ class App: Reactor.Component
 
 class InstallMe: Reactor.Component {
     function render() {
-        return <div .install-bg>
+        return <div .install-me>
 
         </div>;
     }
